@@ -1,0 +1,37 @@
+.body {
+    background: rgb(240, 238, 238)
+}
+
+.key{
+    color: white;
+    font-size: 10vh;
+    text-align: center;
+    border: solid;
+    border-radius: 10px;
+    background: rgb(58,168,228);
+background: linear-gradient(270deg, rgba(58,168,228,1) 5%, rgba(78,135,152,1) 49%, rgba(70,73,70,1) 95%);
+   
+}
+
+.cardinho{
+    padding-top: 10px;
+}
+
+.card-text{
+    color: white;
+    font-size: 5vh;
+    text-align: center;
+    border: solid;
+    border-radius: 10px;
+    background: rgb(58,168,228);
+background: linear-gradient(270deg, rgba(58,168,228,1) 5%, rgba(78,135,152,1) 49%, rgba(70,73,70,1) 95%);
+}
+
+.alinhaCard{
+    margin: auto;
+    align-items: center;
+}
+
+.alinha{
+    text-align: center;
+}
